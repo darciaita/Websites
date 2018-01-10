@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Thumbnail Gallery - Start Bootstrap Template</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/thumbnail-gallery.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+      <div class="container">
+        <a class="navbar-brand" href="#">Week 1</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item active">
+              <a class="nav-link" href="index.html">Home
+                <span class="sr-only">(current)</span>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">About</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Services</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Contact</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <!-- Page Content -->
+    <img src="https://img.aws.livestrongcdn.com/ls-article-image-673/cme/photography.prod.demandstudios.com/8075432d-a80d-4c60-ac0d-03219b6d9e8c.gif">
+    <img src="https://s-media-cache-ak0.pinimg.com/originals/67/77/3c/67773cf275f71511f865218a59e0bbaf.gif">
+    <img src="https://s-media-cache-ak0.pinimg.com/originals/74/d2/d3/74d2d3416ed4154b647044910f65c004.gif">
+        
+    <div class="container">
+
+      <h1 class="my-4 text-center text-lg-left">Day 1, Week 1</h1>
+      <fieldset>
+  <legend>Back &amp; Real Deltoids</legend>
+  <div>
+    <input type="checkbox" id="deadlifts" name="interest" value="deadlifts">
+    <label for="deadlifts">Deadlifts (8, 10, 6, 4)</label><br/>
+    <label for="deadlifts_weight">Weights Used</label>
+    <input type="text" id="deadlifts_weight" name="interest">
+  </div>
+  <div>
+    <input type="checkbox" id="pullups" name="interest" value="pullups">
+    <label for="pullups">Pullups (4 x 10)</label><br/>
+    <label for="deadlifts_weight">Resistance Used</label>
+    <input type="text" id="pullups_resistance" name="interest">
+  </div>
+   <div>
+    <input type="checkbox" id="row" name="interest" value="row">
+    <label for="row">Single Arm Dumbbell Row (4 x 10)</label><br/>
+    <label for="deadlifts_weight">Weight Used</label>
+    <input type="text" id="row_weight" name="interest">
+  </div>
+   <div>
+    <input type="checkbox" id="tbar" name="interest" value="tbar">
+    <label for="tbar">T-Bar Row (4 x 10)</label><br/>
+    <label for="tbar_weight">Weight Used</label>
+    <input type="text" id="tbar_weight" name="interest">
+  </div>
+   <div>
+    <input type="checkbox" id="facepull" name="interest" value="facepull">
+    <label for="facepull">TRX Facepulls (4 x 12)</label><br/>
+  </div>
+   <div>
+    <input type="checkbox" id="pullups" name="interest" value="pullups">
+    <label for="pullups">Bent Over Lat Raises (4 x 10)</label>
+    <br/>
+    <label for="deadlifts_weight">Weight Used</label>
+    <input type="text" id="pullups_resistance" name="interest">
+  </div>
+</fieldset>
+ </div>
+
+   
+    <!-- Footer -->
+    <footer class="py-5 bg-dark">
+      <div class="container">
+        <p class="m-0 text-center text-white">Copyright &copy; Your Website 2017</p>
+
+      </div>
+      <!-- /.container -->
+    </footer>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  </body>
+
+</html>

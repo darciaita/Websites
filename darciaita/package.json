@@ -1,8 +1,8 @@
 {
-  "title": "Clean Blog",
-  "name": "startbootstrap-clean-blog",
+  "title": "Thumbnail Gallery",
+  "name": "startbootstrap-thumbnail-gallery",
   "version": "4.0.0-beta.2",
-  "description": "Clean Blog is a Medium inspired blog theme for Bootstrap.",
+  "description": "A one column portfolio template built with Bootstrap",
   "keywords": [
     "css",
     "sass",
@@ -11,9 +11,9 @@
     "theme",
     "template"
   ],
-  "homepage": "https://startbootstrap.com/template-overviews/clean-blog",
+  "homepage": "https://startbootstrap.com/template-overviews/thumbnail-gallery",
   "bugs": {
-    "url": "https://github.com/BlackrockDigital/startbootstrap-clean-blog/issues",
+    "url": "https://github.com/BlackrockDigital/startbootstrap-thumbnail-gallery/issues",
     "email": "feedback@startbootstrap.com"
   },
   "license": "MIT",
@@ -23,20 +23,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/BlackrockDigital/startbootstrap-clean-blog.git"
+    "url": "https://github.com/BlackrockDigital/startbootstrap-thumbnail-gallery.git"
   },
   "dependencies": {
     "bootstrap": "^4.0.0-beta.2",
-    "font-awesome": "4.7.0",
     "jquery": "^3.2.1"
   },
   "devDependencies": {
     "browser-sync": "2.18.13",
-    "gulp": "^3.9.1",
-    "gulp-clean-css": "3.9.0",
-    "gulp-header": "1.8.9",
-    "gulp-rename": "^1.2.2",
-    "gulp-sass": "^3.1.0",
-    "gulp-uglify": "3.0.0"
+    "gulp": "^3.9.1"
   }
 }
